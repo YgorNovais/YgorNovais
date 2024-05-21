@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/_ygornovais/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ygor-novais-740740165/) 
 
-![YgorNovais Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorNovais&hide_progress=true)
+![YgorNovais GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorNovais&show_icons=true&theme=transparent)
 
 ### Tecnologias que uso no meu dia
 
